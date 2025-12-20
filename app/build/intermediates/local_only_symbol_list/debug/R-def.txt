@@ -1,0 +1,35 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnOpenChat
+id btnSend
+id contentTextView
+id etMessage
+id nameTextView
+id recyclerView
+id recyclerViewChats
+id senderTextView
+id tvLastMessage
+id tvName
+layout activity_chat
+layout activity_chat_list
+layout activity_chats
+layout activity_main
+layout item_chat
+layout item_message
+layout item_user
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string hello_world
+string send
+string type_message
+style Theme.ChatApp

@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "com.navi.chat.app-merged_res-33:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.navi.chat.app-main-35:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.navi.chat.app-merged_res-33:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.navi.chat.app-main-35:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.navi.chat.app-merged_res-33:/layout_item_chat.xml.flat",
+        "source": "com.navi.chat.app-main-35:/layout/item_chat.xml"
+    },
+    {
+        "merged": "com.navi.chat.app-merged_res-33:/layout_activity_chats.xml.flat",
+        "source": "com.navi.chat.app-main-35:/layout/activity_chats.xml"
+    },
+    {
+        "merged": "com.navi.chat.app-merged_res-33:/layout_activity_main.xml.flat",
+        "source": "com.navi.chat.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.navi.chat.app-merged_res-33:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.navi.chat.app-main-35:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.navi.chat.app-merged_res-33:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.navi.chat.app-main-35:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.navi.chat.app-merged_res-33:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.navi.chat.app-main-35:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.navi.chat.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.navi.chat.app-main-35:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.navi.chat.app-merged_res-33:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.navi.chat.app-main-35:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.navi.chat.app-merged_res-33:/layout_item_user.xml.flat",
+        "source": "com.navi.chat.app-main-35:/layout/item_user.xml"
+    },
+    {
+        "merged": "com.navi.chat.app-merged_res-33:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.navi.chat.app-main-35:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.navi.chat.app-merged_res-33:/layout_item_message.xml.flat",
+        "source": "com.navi.chat.app-main-35:/layout/item_message.xml"
+    },
+    {
+        "merged": "com.navi.chat.app-merged_res-33:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.navi.chat.app-main-35:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.navi.chat.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.navi.chat.app-main-35:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.navi.chat.app-merged_res-33:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.navi.chat.app-main-35:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.navi.chat.app-merged_res-33:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.navi.chat.app-main-35:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.navi.chat.app-merged_res-33:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.navi.chat.app-main-35:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.navi.chat.app-merged_res-33:/layout_activity_chat.xml.flat",
+        "source": "com.navi.chat.app-main-35:/layout/activity_chat.xml"
+    },
+    {
+        "merged": "com.navi.chat.app-merged_res-33:/layout_activity_chat_list.xml.flat",
+        "source": "com.navi.chat.app-main-35:/layout/activity_chat_list.xml"
+    },
+    {
+        "merged": "com.navi.chat.app-merged_res-33:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.navi.chat.app-main-35:/mipmap-xhdpi/ic_launcher.webp"
+    }
+]
